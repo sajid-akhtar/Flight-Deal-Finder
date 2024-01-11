@@ -13,7 +13,7 @@ Description:<br/>
     - Use of <a href="https://www.twilio.com/en-us">Twilio Messaging service</a><br/>
     - Use of <a href="https://newsapi.org/">Kiwi API</a> to get flight details<br/>
 
-    ![alt text](https://github.com/sajid-akhtar/Flight-Deal-Finder/blob/main/screenshot.jpeg)
+    <img src=“https://github.com/sajid-akhtar/Flight-Deal-Finder/blob/main/screenshot.jpeg” raw=true alt=“SMS Alert” style=“margin-right: 10px;” />
 
 Note:<br/>
     - All the credentials used are incorrect. Please use your credentials for the same.
